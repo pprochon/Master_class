@@ -1,1 +1,2 @@
--e Data "*\n!.gitignore" 
+data *
+!.gitignore
